@@ -78,10 +78,10 @@
 
 <style>
 .bg-light-violet{
-  background:#50B498;
+  background:#FFB22C;
 }
 .bg-dark-gray{
-  background:#9CDBA6;
+  background:#FFDE4D;
 }
 .font-medium{
   height: 30px;
